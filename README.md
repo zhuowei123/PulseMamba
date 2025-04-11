@@ -1,5 +1,7 @@
-# RhythmMamba++
-**Flexible Remote Physiological Measurement with Enhanced Temporal Learning and Dynamic Spatiotemporal Representation**
+# PulseMamba
+**Flexible Remote Physiological Measurement with
+Enhanced Temporal Learning and Dynamic
+Spatiotemporal Representation**
 
 ![status](https://img.shields.io/badge/status-code%20coming%20soon-yellow)
 ![license](https://img.shields.io/badge/license-MIT-green)
